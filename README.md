@@ -1,4 +1,5 @@
 # CorsiBlender
 Riepilogo dei miei video e materiale per seguire i miei corsi.
-
-[<img src="https://img.youtube.com/vi/P_5Kb8LGZ_I/maxresdefault.jpg" width="50%">](https://youtu.be/P_5Kb8LGZ_I)
+| Consigliato | Corso        | Playlist           | Primo video  |
+| ---- | ------------- |:-------------:| -----:|
+| | Registrazioni vulcano 2011      | [<img src="https://img.youtube.com/vi/9lPdCReulII/hqdefault.jpg" width = "50%">](https://www.youtube.com/playlist?list=PLXTK688RnbsGiZ9A678VXBCflgRleEaB3) | La qualita' e' scarsa |
